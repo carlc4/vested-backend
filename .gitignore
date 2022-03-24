@@ -1,2 +1,4 @@
-.secretInfo
-/node_modules
+
+node_modules
+secretInfo.js
+
